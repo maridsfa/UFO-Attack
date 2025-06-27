@@ -1,0 +1,51 @@
+C:\Users\aluno.IFSUL_PELOTAS\Documents\mariaisabel_mariana_tro7m\trab_prog\trab_prog\bin\Debug\trab_prog.exe.config
+C:\Users\aluno.IFSUL_PELOTAS\Documents\mariaisabel_mariana_tro7m\trab_prog\trab_prog\bin\Debug\trab_prog.exe
+C:\Users\aluno.IFSUL_PELOTAS\Documents\mariaisabel_mariana_tro7m\trab_prog\trab_prog\bin\Debug\trab_prog.pdb
+C:\Users\aluno.IFSUL_PELOTAS\Documents\mariaisabel_mariana_tro7m\trab_prog\trab_prog\obj\Debug\trab_prog.csproj.AssemblyReference.cache
+C:\Users\aluno.IFSUL_PELOTAS\Documents\mariaisabel_mariana_tro7m\trab_prog\trab_prog\obj\Debug\trab_prog.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno.IFSUL_PELOTAS\Documents\mariaisabel_mariana_tro7m\trab_prog\trab_prog\obj\Debug\trab_prog.Form1.resources
+C:\Users\aluno.IFSUL_PELOTAS\Documents\mariaisabel_mariana_tro7m\trab_prog\trab_prog\obj\Debug\trab_prog.Properties.Resources.resources
+C:\Users\aluno.IFSUL_PELOTAS\Documents\mariaisabel_mariana_tro7m\trab_prog\trab_prog\obj\Debug\trab_prog.csproj.GenerateResource.cache
+C:\Users\aluno.IFSUL_PELOTAS\Documents\mariaisabel_mariana_tro7m\trab_prog\trab_prog\obj\Debug\trab_prog.csproj.CoreCompileInputs.cache
+C:\Users\aluno.IFSUL_PELOTAS\Documents\mariaisabel_mariana_tro7m\trab_prog\trab_prog\obj\Debug\trab_prog.exe
+C:\Users\aluno.IFSUL_PELOTAS\Documents\mariaisabel_mariana_tro7m\trab_prog\trab_prog\obj\Debug\trab_prog.pdb
+C:\Users\faria\OneDrive\Área de Trabalho\trab_prog\trab_prog\bin\Debug\trab_prog.exe.config
+C:\Users\faria\OneDrive\Área de Trabalho\trab_prog\trab_prog\bin\Debug\trab_prog.exe
+C:\Users\faria\OneDrive\Área de Trabalho\trab_prog\trab_prog\bin\Debug\trab_prog.pdb
+C:\Users\faria\OneDrive\Área de Trabalho\trab_prog\trab_prog\obj\Debug\trab_prog.csproj.AssemblyReference.cache
+C:\Users\faria\OneDrive\Área de Trabalho\trab_prog\trab_prog\obj\Debug\trab_prog.Properties.Resources.resources
+C:\Users\faria\OneDrive\Área de Trabalho\trab_prog\trab_prog\obj\Debug\trab_prog.csproj.GenerateResource.cache
+C:\Users\faria\OneDrive\Área de Trabalho\trab_prog\trab_prog\obj\Debug\trab_prog.csproj.CoreCompileInputs.cache
+C:\Users\faria\OneDrive\Área de Trabalho\trab_prog\trab_prog\obj\Debug\trab_prog.exe
+C:\Users\faria\OneDrive\Área de Trabalho\trab_prog\trab_prog\obj\Debug\trab_prog.pdb
+C:\Users\faria\OneDrive\Área de Trabalho\trab_prog\trab_prog\obj\Debug\trab_prog.pb_Gameover.resources
+C:\Users\gaspa\source\trab_prog\bin\Debug\trab_prog.exe.config
+C:\Users\gaspa\source\trab_prog\bin\Debug\trab_prog.exe
+C:\Users\gaspa\source\trab_prog\bin\Debug\trab_prog.pdb
+C:\Users\gaspa\source\trab_prog\obj\Debug\trab_prog.csproj.AssemblyReference.cache
+C:\Users\gaspa\source\trab_prog\obj\Debug\trab_prog.pb_Gameover.resources
+C:\Users\gaspa\source\trab_prog\obj\Debug\trab_prog.Properties.Resources.resources
+C:\Users\gaspa\source\trab_prog\obj\Debug\trab_prog.csproj.GenerateResource.cache
+C:\Users\gaspa\source\trab_prog\obj\Debug\trab_prog.csproj.CoreCompileInputs.cache
+C:\Users\gaspa\source\trab_prog\obj\Debug\trab_prog.exe
+C:\Users\gaspa\source\trab_prog\obj\Debug\trab_prog.pdb
+D:\UFO Attack\bin\Debug\trab_prog.exe.config
+D:\UFO Attack\bin\Debug\trab_prog.exe
+D:\UFO Attack\bin\Debug\trab_prog.pdb
+D:\UFO Attack\obj\Debug\trab_prog.csproj.AssemblyReference.cache
+D:\UFO Attack\obj\Debug\trab_prog.pb_Gameover.resources
+D:\UFO Attack\obj\Debug\trab_prog.Properties.Resources.resources
+D:\UFO Attack\obj\Debug\trab_prog.csproj.GenerateResource.cache
+D:\UFO Attack\obj\Debug\trab_prog.csproj.CoreCompileInputs.cache
+D:\UFO Attack\obj\Debug\trab_prog.exe
+D:\UFO Attack\obj\Debug\trab_prog.pdb
+C:\Users\faria\OneDrive\Área de Trabalho\UFO Attack\bin\Debug\trab_prog.exe.config
+C:\Users\faria\OneDrive\Área de Trabalho\UFO Attack\bin\Debug\trab_prog.exe
+C:\Users\faria\OneDrive\Área de Trabalho\UFO Attack\bin\Debug\trab_prog.pdb
+C:\Users\faria\OneDrive\Área de Trabalho\UFO Attack\obj\Debug\trab_prog.csproj.AssemblyReference.cache
+C:\Users\faria\OneDrive\Área de Trabalho\UFO Attack\obj\Debug\trab_prog.pb_Gameover.resources
+C:\Users\faria\OneDrive\Área de Trabalho\UFO Attack\obj\Debug\trab_prog.Properties.Resources.resources
+C:\Users\faria\OneDrive\Área de Trabalho\UFO Attack\obj\Debug\trab_prog.csproj.GenerateResource.cache
+C:\Users\faria\OneDrive\Área de Trabalho\UFO Attack\obj\Debug\trab_prog.csproj.CoreCompileInputs.cache
+C:\Users\faria\OneDrive\Área de Trabalho\UFO Attack\obj\Debug\trab_prog.exe
+C:\Users\faria\OneDrive\Área de Trabalho\UFO Attack\obj\Debug\trab_prog.pdb

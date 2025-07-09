@@ -18,27 +18,28 @@
 
 3. Build and run the project (F5).
 
-##🎮 How to Play
+## 🎮 How to Play
 
-Control your spaceship to shoot down incoming UFOs.
+- Control your spaceship to shoot down incoming UFOs.
 
-Your goal is to destroy as many enemy ships as possible before they reach the bottom of the screen.
+- Your goal is to destroy as many enemy ships as possible before they reach the bottom of the screen.
 
-Use the arrow keys to move and the spacebar to shoot.
+- Use the arrow keys to move and the spacebar to shoot.
 
-##📁 Project Structure
-Form1.cs: Main game logic.
+## 📁 Project Structure
 
-Program.cs: Entry point of the application.
+- Form1.cs: Main game logic.
 
-Form1.Designer.cs: Automatically generated file containing the form's layout.
+- Program.cs: Entry point of the application.
 
-.resx: Resources used in the form design.
+- Form1.Designer.cs: Automatically generated file containing the form's layout.
 
-.sln and .csproj: Visual Studio solution and project files.
+- .resx: Resources used in the form design.
 
-##✨ Contributions
+- .sln and .csproj: Visual Studio solution and project files.
+
+## ✨ Contributions
 Feel free to fork this repo and submit pull requests with improvements or suggestions!
 
-##📄 License
+## 📄 License
 This project is open for educational and personal use.

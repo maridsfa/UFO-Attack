@@ -12,7 +12,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/UFO-Attack.git
+   git clone https://github.com/maridsfa/UFO-Attack.git
 
 2. Open the solution file trab_prog.sln using Visual Studio.
 
